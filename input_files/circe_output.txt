@@ -1,0 +1,68 @@
+start time is:  [1518323671.4516733]
+Starting the connection
+10.244.3.46 - - [11/Feb/2018 04:34:32] "GET /recv_monitor_data?msg=start&work_node=localpro HTTP/1.1" 200 -
+localpro takes time:15.037259817123413
+10.244.3.46 - - [11/Feb/2018 04:34:47] "GET /recv_monitor_data?msg=end&work_node=localpro HTTP/1.1" 200 -
+10.244.61.171 - - [11/Feb/2018 04:34:48] "GET /recv_monitor_data?work_node=aggregate0&msg=start HTTP/1.1" 200 -
+10.244.14.93 - - [11/Feb/2018 04:34:50] "GET /recv_monitor_data?msg=start&work_node=aggregate1 HTTP/1.1" 200 -
+10.244.29.222 - - [11/Feb/2018 04:34:52] "GET /recv_monitor_data?msg=start&work_node=aggregate2 HTTP/1.1" 200 -
+aggregate0 takes time:15.041133165359497
+10.244.61.171 - - [11/Feb/2018 04:35:03] "GET /recv_monitor_data?work_node=aggregate0&msg=end HTTP/1.1" 200 -
+10.244.38.234 - - [11/Feb/2018 04:35:05] "GET /recv_monitor_data?msg=start&work_node=simpledetector0 HTTP/1.1" 200 -
+aggregate1 takes time:15.342492818832397
+10.244.14.93 - - [11/Feb/2018 04:35:06] "GET /recv_monitor_data?msg=end&work_node=aggregate1 HTTP/1.1" 200 -
+10.244.15.143 - - [11/Feb/2018 04:35:07] "GET /recv_monitor_data?msg=start&work_node=simpledetector1 HTTP/1.1" 200 -
+aggregate2 takes time:15.229019403457642
+10.244.29.222 - - [11/Feb/2018 04:35:07] "GET /recv_monitor_data?msg=end&work_node=aggregate2 HTTP/1.1" 200 -
+10.244.66.211 - - [11/Feb/2018 04:35:07] "GET /recv_monitor_data?work_node=astutedetector0&msg=start HTTP/1.1" 200 -
+10.244.46.240 - - [11/Feb/2018 04:35:08] "GET /recv_monitor_data?msg=start&work_node=dftdetector0 HTTP/1.1" 200 -
+10.244.36.199 - - [11/Feb/2018 04:35:09] "GET /recv_monitor_data?msg=start&work_node=teradetector0 HTTP/1.1" 200 -
+10.244.7.166 - - [11/Feb/2018 04:35:09] "GET /recv_monitor_data?work_node=simpledetector2&msg=start HTTP/1.1" 200 -
+10.244.78.227 - - [11/Feb/2018 04:35:10] "GET /recv_monitor_data?work_node=astutedetector1&msg=start HTTP/1.1" 200 -
+10.244.64.7 - - [11/Feb/2018 04:35:13] "GET /recv_monitor_data?msg=start&work_node=astutedetector2 HTTP/1.1" 200 -
+10.244.87.94 - - [11/Feb/2018 04:35:13] "GET /recv_monitor_data?msg=start&work_node=dftdetector1 HTTP/1.1" 200 -
+10.244.71.233 - - [11/Feb/2018 04:35:15] "GET /recv_monitor_data?work_node=teradetector1&msg=start HTTP/1.1" 200 -
+10.244.70.232 - - [11/Feb/2018 04:35:17] "GET /recv_monitor_data?msg=start&work_node=dftdetector2 HTTP/1.1" 200 -
+10.244.87.95 - - [11/Feb/2018 04:35:19] "GET /recv_monitor_data?msg=start&work_node=teradetector2 HTTP/1.1" 200 -
+simpledetector0 takes time:15.077513694763184
+10.244.38.234 - - [11/Feb/2018 04:35:20] "GET /recv_monitor_data?msg=end&work_node=simpledetector0 HTTP/1.1" 200 -
+simpledetector1 takes time:15.431684494018555
+10.244.15.143 - - [11/Feb/2018 04:35:23] "GET /recv_monitor_data?msg=end&work_node=simpledetector1 HTTP/1.1" 200 -
+astutedetector0 takes time:15.507487297058105
+10.244.66.211 - - [11/Feb/2018 04:35:23] "GET /recv_monitor_data?work_node=astutedetector0&msg=end HTTP/1.1" 200 -
+simpledetector2 takes time:15.045462608337402
+10.244.7.166 - - [11/Feb/2018 04:35:25] "GET /recv_monitor_data?work_node=simpledetector2&msg=end HTTP/1.1" 200 -
+astutedetector1 takes time:15.269825458526611
+10.244.78.227 - - [11/Feb/2018 04:35:25] "GET /recv_monitor_data?work_node=astutedetector1&msg=end HTTP/1.1" 200 -
+dftdetector0 takes time:16.965288639068604
+10.244.46.240 - - [11/Feb/2018 04:35:25] "GET /recv_monitor_data?msg=end&work_node=dftdetector0 HTTP/1.1" 200 -
+astutedetector2 takes time:15.46683382987976
+10.244.64.7 - - [11/Feb/2018 04:35:29] "GET /recv_monitor_data?msg=end&work_node=astutedetector2 HTTP/1.1" 200 -
+MongodB Update Successful
+dftdetector1 takes time:19.72858953475952
+10.244.87.94 - - [11/Feb/2018 04:35:33] "GET /recv_monitor_data?msg=end&work_node=dftdetector1 HTTP/1.1" 200 -
+dftdetector2 takes time:20.454312562942505
+10.244.70.232 - - [11/Feb/2018 04:35:38] "GET /recv_monitor_data?msg=end&work_node=dftdetector2 HTTP/1.1" 200 -
+10.244.71.233 - - [11/Feb/2018 04:35:43] "GET /recv_monitor_data?work_node=teradetector1&msg=end HTTP/1.1" 200 -
+teradetector1 takes time:28.099058628082275
+10.244.6.182 - - [11/Feb/2018 04:35:44] "GET /recv_monitor_data?work_node=fusioncenter1&msg=start HTTP/1.1" 200 -
+teradetector2 takes time:28.151209354400635
+10.244.87.95 - - [11/Feb/2018 04:35:47] "GET /recv_monitor_data?msg=end&work_node=teradetector2 HTTP/1.1" 200 -
+teradetector0 takes time:39.72853708267212
+10.244.36.199 - - [11/Feb/2018 04:35:48] "GET /recv_monitor_data?msg=end&work_node=teradetector0 HTTP/1.1" 200 -
+10.244.13.75 - - [11/Feb/2018 04:35:49] "GET /recv_monitor_data?msg=start&work_node=fusioncenter0 HTTP/1.1" 200 -
+10.244.18.105 - - [11/Feb/2018 04:35:50] "GET /recv_monitor_data?work_node=fusioncenter2&msg=start HTTP/1.1" 200 -
+fusioncenter1 takes time:10.067222356796265
+10.244.6.182 - - [11/Feb/2018 04:35:54] "GET /recv_monitor_data?work_node=fusioncenter1&msg=end HTTP/1.1" 200 -
+fusioncenter0 takes time:10.303445100784302
+10.244.13.75 - - [11/Feb/2018 04:35:59] "GET /recv_monitor_data?msg=end&work_node=fusioncenter0 HTTP/1.1" 200 -
+10.244.18.105 - - [11/Feb/2018 04:36:00] "GET /recv_monitor_data?work_node=fusioncenter2&msg=end HTTP/1.1" 200 -
+fusioncenter2 takes time:10.35176968574524
+10.244.28.247 - - [11/Feb/2018 04:36:04] "GET /recv_monitor_data?work_node=globalfusion&msg=start HTTP/1.1" 200 -
+globalfusion takes time:10.191845178604126
+10.244.28.247 - - [11/Feb/2018 04:36:14] "GET /recv_monitor_data?work_node=globalfusion&msg=end HTTP/1.1" 200 -
+Start time stats: defaultdict(<class 'list'>, {'fusioncenter1': [1518323744.3010423], 'astutedetector0': [1518323707.775881], 'teradetector1': [1518323715.327768], 'dftdetector2': [1518323717.6218188], 'astutedetector1': [1518323710.1981099], 'dftdetector1': [1518323713.8371181], 'fusioncenter0': [1518323749.569322], 'teradetector0': [1518323709.2090201], 'teradetector2': [1518323719.309099], 'simpledetector0': [1518323705.160337], 'aggregate0': [1518323688.6351392], 'simpledetector1': [1518323707.6588612], 'localpro': [1518323672.2038944], 'simpledetector2': [1518323709.992896], 'astutedetector2': [1518323713.7260797], 'aggregate2': [1518323692.5399446], 'aggregate1': [1518323690.8405101], 'globalfusion': [1518323764.45586], 'dftdetector0': [1518323708.9210012], 'fusioncenter2': [1518323750.0999112]})
+End time stats: defaultdict(<class 'list'>, {'teradetector0': [1518323748.9375572], 'fusioncenter1': [1518323754.3682647], 'astutedetector0': [1518323723.2833683], 'teradetector1': [1518323743.4268267], 'dftdetector2': [1518323738.0761313], 'astutedetector1': [1518323725.4679353], 'dftdetector1': [1518323733.5657077], 'fusioncenter0': [1518323759.8727672], 'simpledetector1': [1518323723.0905457], 'teradetector2': [1518323747.4603083], 'simpledetector0': [1518323720.2378507], 'aggregate0': [1518323703.6762724], 'localpro': [1518323687.2411542], 'simpledetector2': [1518323725.0383587], 'astutedetector2': [1518323729.1929135], 'aggregate2': [1518323707.768964], 'aggregate1': [1518323706.183003], 'globalfusion': [1518323774.647705], 'dftdetector0': [1518323725.8862898], 'fusioncenter2': [1518323760.451681]})
+/output/1global_anomalies.log created
+ending time is:  [1518323776.6513898]
+execution time is:  [105.19971656799316]

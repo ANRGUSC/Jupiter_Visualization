@@ -1,0 +1,39 @@
+### node mapping
+'node56': '10.96.13.111:48080', 'node39': '10.101.27.151:48080', 'node20': '10.104.246.186:48080', 'node65': '10.109.111.88:48080', 'node8': '10.105.213.97:48080', 'node78': '10.99.247.194:48080', 'node58': '10.109.71.151:48080', 'node61': '10.106.137.131:48080', 'node85': '10.107.218.101:48080', 'node10': '10.107.244.27:48080', 'node6': '10.102.55.115:48080', 'node14': '10.99.122.180:48080', 'node53': '10.101.81.14:48080', 'node19': '10.102.247.53:48080', 'node37': '10.97.46.92:48080', 'node75': '10.107.85.186:48080', 'node12': '10.99.50.49:48080', 'node40': '10.96.59.41:48080', 'node63': '10.111.186.46:48080', 'node82': '10.99.126.121:48080', 'node34': '10.107.144.142:48080', 'node80': '10.102.96.22:48080', 'node11': '10.108.137.245:48080', 'node21': '10.101.51.115:48080', 'node27': '10.101.200.49:48080', 'node42': '10.99.69.160:48080', 'node2': '10.102.206.59:48080', 'node38': '10.103.96.105:48080', 'node72': '10.97.223.130:48080', 'node25': '10.103.102.211:48080', 'node90': '10.106.127.36:48080', 'node81': '10.108.224.202:48080', 'node55': '10.102.176.96:48080', 'node33': '10.96.15.137:48080', 'node45': '10.104.91.183:48080', 'node32': '10.102.27.38:48080', 'node4': '10.104.231.112:48080', 'node79': '10.101.172.39:48080', 'node36': '10.96.106.103:48080', 'node54': '10.99.34.187:48080', 'node48': '10.97.192.151:48080', 'node50': '10.101.1.196:48080', 'node89': '10.98.17.120:48080', 'node30': '10.101.252.100:48080', 'node17': '10.104.245.166:48080', 'node77': '10.105.63.2:48080', 'node15': '10.101.41.127:48080', 'node87': '10.98.134.238:48080', 'node13': '10.103.20.119:48080', 'node3': '10.102.161.183:48080', 'node23': '10.105.5.247:48080', 'node51': '10.103.204.114:48080', 'node18': '10.103.139.250:48080', 'node41': '10.98.62.195:48080', 'node83': '10.102.66.138:48080', 'node88': '10.98.141.254:48080', 'node5': '10.111.38.9:48080', 'node68': '10.104.53.185:48080', 'node49': '10.105.154.159:48080', 'node66': '10.105.193.25:48080', 'node9': '10.107.252.200:48080', 'node26': '10.100.147.149:48080', 'node86': '10.99.106.227:48080', 'node43': '10.103.160.11:48080', 'node84': '10.108.52.238:48080', 'node31': '10.97.86.88:48080', 'node64': '10.100.24.218:48080', 'node22': '10.111.108.237:48080', 'node60': '10.108.230.58:48080', 'node35': '10.102.100.252:48080', 'node73': '10.105.35.230:48080', 'node47': '10.96.40.32:48080', 'node28': '10.97.20.45:48080', 'node24': '10.99.214.211:48080', 'node59': '10.110.34.133:48080', 'node7': '10.110.46.236:48080', 'node57': '10.106.78.131:48080', 'node71': '10.97.81.142:48080', 'node70': '10.96.131.56:48080', 'node29': '10.103.8.228:48080', 'node69': '10.111.218.226:48080', 'node44': '10.108.30.80:48080', 'node67': '10.103.206.200:48080', 'node16': '10.108.240.90:48080', 'node62': '10.109.250.168:48080', 'node52': '10.101.81.101:48080', 'node74': '10.110.55.0:48080', 'node76': '10.107.215.187:48080', 'node46': '10.96.84.184:48080', 'node4': '10.244.3.44:48080'
+### mapping info
+10.244.0.0 - - [11/Feb/2018 03:37:59] "GET / HTTP/1.1" 200 -
+10.244.3.44 - - [11/Feb/2018 03:38:17] "GET /recv_mapping?mapping=localpro&node=node4 HTTP/1.1" 200 -
+10.244.61.170 - - [11/Feb/2018 03:38:23] "GET /recv_mapping?mapping=aggregate0&node=node40 HTTP/1.1" 200 -
+10.244.29.221 - - [11/Feb/2018 03:38:27] "GET /recv_mapping?node=node70&mapping=aggregate2 HTTP/1.1" 200 -
+10.244.38.233 - - [11/Feb/2018 03:38:33] "GET /recv_mapping?mapping=simpledetector0&node=node87 HTTP/1.1" 200 -
+10.244.14.91 - - [11/Feb/2018 03:38:36] "GET /recv_mapping?mapping=aggregate1&node=node19 HTTP/1.1" 200 -
+10.244.15.142 - - [11/Feb/2018 03:38:43] "GET /recv_mapping?node=node18&mapping=simpledetector1 HTTP/1.1" 200 -
+10.244.26.103 - - [11/Feb/2018 03:39:10] "GET /recv_mapping?mapping=dftslave21&node=node22 HTTP/1.1" 200 -
+10.244.22.159 - - [11/Feb/2018 03:39:10] "GET /recv_mapping?mapping=teraworker11&node=node26 HTTP/1.1" 200 -
+10.244.87.93 - - [11/Feb/2018 03:39:13] "GET /recv_mapping?node=node63&mapping=dftdetector1%23teradetector2 HTTP/1.1" 200 -
+10.244.13.69 - - [11/Feb/2018 03:39:16] "GET /recv_mapping?node=node11&mapping=fusioncenter0 HTTP/1.1" 200 -
+10.244.12.48 - - [11/Feb/2018 03:39:16] "GET /recv_mapping?node=node10&mapping=teraworker01 HTTP/1.1" 200 -
+10.244.63.220 - - [11/Feb/2018 03:39:17] "GET /recv_mapping?node=node38&mapping=teramaster1 HTTP/1.1" 200 -
+10.244.28.246 - - [11/Feb/2018 03:39:17] "GET /recv_mapping?mapping=globalfusion&node=node20 HTTP/1.1" 200 -
+10.244.6.180 - - [11/Feb/2018 03:39:17] "GET /recv_mapping?mapping=fusioncenter1&node=node6 HTTP/1.1" 200 -
+10.244.5.85 - - [11/Feb/2018 03:39:18] "GET /recv_mapping?mapping=teraworker10&node=node5 HTTP/1.1" 200 -
+10.244.55.223 - - [11/Feb/2018 03:39:20] "GET /recv_mapping?mapping=dftslave10&node=node31 HTTP/1.1" 200 -
+10.244.54.233 - - [11/Feb/2018 03:39:20] "GET /recv_mapping?mapping=teraworker20&node=node32 HTTP/1.1" 200 -
+10.244.7.165 - - [11/Feb/2018 03:39:21] "GET /recv_mapping?node=node29&mapping=simpledetector2 HTTP/1.1" 200 -
+10.244.62.147 - - [11/Feb/2018 03:39:23] "GET /recv_mapping?mapping=teraworker22&node=node39 HTTP/1.1" 200 -
+10.244.57.8 - - [11/Feb/2018 03:39:24] "GET /recv_mapping?mapping=dftslave02&node=node44 HTTP/1.1" 200 -
+10.244.77.93 - - [11/Feb/2018 03:39:25] "GET /recv_mapping?node=node52&mapping=teramaster2 HTTP/1.1" 200 -
+10.244.78.226 - - [11/Feb/2018 03:39:25] "GET /recv_mapping?node=node51&mapping=astutedetector1 HTTP/1.1" 200 -
+10.244.75.183 - - [11/Feb/2018 03:39:25] "GET /recv_mapping?node=node54&mapping=dftslave22 HTTP/1.1" 200 -
+10.244.31.230 - - [11/Feb/2018 03:39:27] "GET /recv_mapping?node=node72&mapping=teraworker21 HTTP/1.1" 200 -
+10.244.64.6 - - [11/Feb/2018 03:39:27] "GET /recv_mapping?mapping=astutedetector2%23teraworker00&node=node50 HTTP/1.1" 200 -
+10.244.68.82 - - [11/Feb/2018 03:39:27] "GET /recv_mapping?node=node46&mapping=dftslave20 HTTP/1.1" 200 -
+10.244.66.209 - - [11/Feb/2018 03:39:27] "GET /recv_mapping?mapping=astutedetector0%23dftslave01&node=node48 HTTP/1.1" 200 -
+10.244.69.209 - - [11/Feb/2018 03:39:28] "GET /recv_mapping?node=node37&mapping=dftslave00 HTTP/1.1" 200 -
+10.244.70.230 - - [11/Feb/2018 03:39:28] "GET /recv_mapping?node=node36&mapping=dftdetector2%23teramaster0 HTTP/1.1" 200 -
+10.244.71.231 - - [11/Feb/2018 03:39:28] "GET /recv_mapping?mapping=teradetector1&node=node13 HTTP/1.1" 200 -
+10.244.50.133 - - [11/Feb/2018 03:39:28] "GET /recv_mapping?mapping=teraworker02&node=node88 HTTP/1.1" 200 -
+10.244.36.198 - - [11/Feb/2018 03:39:29] "GET /recv_mapping?node=node77&mapping=teradetector0 HTTP/1.1" 200 -
+10.244.18.102 - - [11/Feb/2018 03:39:31] "GET /recv_mapping?mapping=dftslave12%23fusioncenter2&node=node15 HTTP/1.1" 200 -
+10.244.46.238 - - [11/Feb/2018 03:39:31] "GET /recv_mapping?node=node79&mapping=dftdetector0%23dftslave11 HTTP/1.1" 200 -
+10.244.51.38 - - [11/Feb/2018 03:40:03] "GET /recv_mapping?mapping=teraworker12&node=node35 HTTP/1.1" 200 -
