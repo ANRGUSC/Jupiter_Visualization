@@ -6,14 +6,14 @@ Visualization tool for [Jupiter](https://github.com/ANRGUSC/Jupiter). This tool 
 
 ```
 .
-├── README.md								# this file
-├── Dockerfile							# file to generate the Docker image
-├── visualizer.ipynb				# Jupyter notebook to generate the interactive plot
-├── input_files							# directory containing the files needed by this visualizer (output by Jupiter)
-│   ├── DAG.txt							# DAG representing the task graph
-│   ├── circe_output.txt		# output file by CIRCE log
-│   └── wave_output.txt			# output file by WAVE log
-└── screenshots						# screenshots for example run
+├── README.md                   # this file
+├── Dockerfile                  # file to generate the Docker image
+├── visualizer.ipynb            # Jupyter notebook to generate the interactive plot
+├── input_files                 # directory containing the files needed by this visualizer (output by Jupiter)
+│   ├── DAG.txt                 # DAG representing the task graph
+│   ├── circe_output.txt        # output file by CIRCE log
+│   └── wave_output.txt         # output file by WAVE log
+└── screenshots                 # screenshots for example run
 ```
 
 
